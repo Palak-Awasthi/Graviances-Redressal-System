@@ -1,1 +1,1 @@
-# Graviances-Redressal-System
+A grievance redressal system can be a web application that allows students to register complaints, track their status, and get notifications. The system can also automatically assign complaints to employees, prioritize them based on urgency, and generate reports.
